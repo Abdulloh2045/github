@@ -8,5 +8,13 @@ namespace github
 {
     internal class Class1
     {
+        public string check()
+        {
+            return "Yes";
+        }
+        public int sum (int a , int b)
+        {
+            return a + b;
+        }
     }
 }
